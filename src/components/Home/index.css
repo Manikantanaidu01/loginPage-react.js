@@ -1,0 +1,10 @@
+div {
+  height: 50vh;
+  width: 40vw;
+  background-image: linear-gradient(#303150, #b5b9ff);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
